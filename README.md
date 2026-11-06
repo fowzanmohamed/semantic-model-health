@@ -41,7 +41,7 @@
 
 > **You need:** a workspace on Fabric capacity (F2 or higher, Premium or Trial) and Contributor access to the workspaces you want to check.
 
-1. **Download** [`NB_ModelHealth.ipynb`](NB_ModelHealth.ipynb).
+1. **Download** [`NB_ModelHealth.ipynb`](https://github.com/fowzanmohamed/semantic-model-health/releases/latest/download/NB_ModelHealth.ipynb) from the [latest release](https://github.com/fowzanmohamed/semantic-model-health/releases/latest).
 2. In your workspace: **Import → Notebook → From this computer**.
 3. Open it and click **Run all**.
 4. Open the **Model Health** report in the same workspace.
