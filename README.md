@@ -40,7 +40,7 @@ https://github.com/user-attachments/assets/3999e4be-a051-4ce6-ab6f-4b3bf38aa003
   <img src="screenshots/01_overview.png" alt="Overview page" width="90%">
 </p>
 
-## 🚀 Quick start (about 5 minutes)
+## Quick start (about 5 minutes)
 
 > **You need:** a workspace on Fabric capacity (F2 or higher, Premium or Trial) and Contributor access to the workspaces you want to check.
 
