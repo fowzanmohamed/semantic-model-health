@@ -16,12 +16,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/3999e4be-a051-4ce6-ab6f-4b3bf38aa003"><img src="assets/demo_still.png" alt="The Model Health report. Watch the 2-minute demo below" width="85%"></a>
+  <a href="https://github.com/user-attachments/assets/d050fa6d-3e16-4748-ab37-2710f269c323"><img src="assets/demo_still.png" alt="The Model Health report. Watch the 2-minute demo below" width="85%"></a>
 </p>
 
 **▶ Watch the 2-minute demo** (sound on): import the notebook, click Run all, read the report.
 
-https://github.com/user-attachments/assets/3999e4be-a051-4ce6-ab6f-4b3bf38aa003
+https://github.com/user-attachments/assets/d050fa6d-3e16-4748-ab37-2710f269c323
 
 ---
 
