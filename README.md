@@ -16,9 +16,12 @@
 </p>
 
 <p align="center">
-  <a href="media/SMH_Demo_2min.mp4"><img src="assets/demo_preview.gif" alt="Demo preview: import, Run all, read the report" width="85%"></a><br>
-  <sub>▶ <a href="media/SMH_Demo_2min.mp4">Watch the 2-minute demo</a>: import, Run all, read the report</sub>
+  <img src="assets/demo_preview.gif" alt="Demo preview: import, Run all, read the report" width="85%">
 </p>
+
+**▶ Watch the 2-minute demo** (sound on): import the notebook, click Run all, read the report.
+
+https://github.com/user-attachments/assets/3999e4be-a051-4ce6-ab6f-4b3bf38aa003
 
 ---
 
