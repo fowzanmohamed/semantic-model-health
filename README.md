@@ -16,8 +16,8 @@
 </p>
 
 <p align="center">
-  <a href="media/Model_Health_Demo.mp4"><img src="assets/demo_preview.gif" alt="Demo preview" width="85%"></a><br>
-  <sub>▶ <a href="media/Model_Health_Demo.mp4">Watch the 74-second demo</a></sub>
+  <a href="media/SMH_Demo_2min.mp4"><img src="assets/demo_preview.gif" alt="Demo preview: import, Run all, read the report" width="85%"></a><br>
+  <sub>▶ <a href="media/SMH_Demo_2min.mp4">Watch the 2-minute demo</a>: import, Run all, read the report</sub>
 </p>
 
 ---
@@ -123,6 +123,7 @@ Ideas and feedback are welcome in [Issues](../../issues).
 ## 🙌 Credits
 
 Built on Microsoft's [Semantic Link](https://learn.microsoft.com/fabric/data-science/semantic-link-overview), [Semantic Link Labs](https://github.com/microsoft/semantic-link-labs) and the Best Practice Analyzer rules.
+Demo music: "Cued For Liftoff" by Dan "Lebo" Lebowitz and Tone Seeker, from the YouTube Audio Library.
 
 ---
 
