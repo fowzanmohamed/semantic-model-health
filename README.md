@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/demo_preview.gif" alt="Demo preview: import, Run all, read the report" width="85%">
+  <a href="https://github.com/user-attachments/assets/3999e4be-a051-4ce6-ab6f-4b3bf38aa003"><img src="assets/demo_still.png" alt="The Model Health report. Watch the 2-minute demo below" width="85%"></a>
 </p>
 
 **▶ Watch the 2-minute demo** (sound on): import the notebook, click Run all, read the report.
